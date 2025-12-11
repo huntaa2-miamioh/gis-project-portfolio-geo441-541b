@@ -7,7 +7,7 @@ Ava Hunt
 - - Students can build a repository like this as their project portfolio
  
   ## Basic Mapping
-  - [First map in ArcGIS Pro](https://github.com/huntaa2-miamioh/gis-project-portfolio-geo441-541b/blob/faeff2513629906605133b589c9dbb1bb20b3adb/basic-mapping/first-arcgis-mapping.ipynb)
+  - [First map in ArcGIS Pro](https://github.com/huntaa2-miamioh/gis-project-portfolio-geo441-541b/blob/0c9dab9671dfb528a395b09a1e50ce380d3fd5d7/basic-mapping/actual-first-arcgis-mapping.ipynb)
  
   ## Vector Data Visualization
   - [Map of U.S county age indexes based on 2000 census data](link)
