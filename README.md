@@ -10,7 +10,7 @@ Ava Hunt
   - [First map in ArcGIS Pro](https://github.com/huntaa2-miamioh/gis-project-portfolio-geo441-541b/blob/0c9dab9671dfb528a395b09a1e50ce380d3fd5d7/basic-mapping/actual-first-arcgis-mapping.ipynb)
  
   ## Vector Data Visualization
-  - [Map of U.S county age indexes based on 2000 census data](link)
+  - [Map of U.S county age indexes based on 2000 census data](https://github.com/huntaa2-miamioh/gis-project-portfolio-geo441-541b/blob/303228c39cb2eb2eba5370aa55f62d5a33bc11a8/basic-mapping/age-index-mapping.ipynb)
  
   ## Raster Data Visualization
   - [Maps of Oxford, OH Topography](link)
